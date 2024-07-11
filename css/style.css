@@ -5,7 +5,7 @@
     --trans: all 0.3s ease-in-out;
 }
 .navbar{
-    position: fixed;
+    position: relative;
     top: 0;
     width: 100%;
     background-color: transparent;
